@@ -4,6 +4,7 @@ This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 A
 
 ## MAKE SURE YOU HAVE [ADMIN](https://ecommerce-admin-lovat.vercel.app/) SETUP FIRST!
 
+
 Key Features:
 
 - We will be using Shadcn UI for the Admin!
