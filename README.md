@@ -1,6 +1,6 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
 
-This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, Stripe.
 
 ## MAKE SURE YOU HAVE [ADMIN](https://ecommerce-admin-lovat.vercel.app/) SETUP FIRST!
 
